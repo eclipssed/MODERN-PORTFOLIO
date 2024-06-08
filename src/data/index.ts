@@ -89,7 +89,7 @@ export const projects = [
   {
     id: 3,
     title: "Blog-X-Sanity",
-    des: "A Full stakc fully SEO optimized blog website where you can post articles and start blogging journey.",
+    des: "A Full stack fully SEO optimized blog website where you can post articles and start blogging journey.",
     img: "/project3.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
     link: "https://blog-x-sanity.vercel.app/",
@@ -108,32 +108,32 @@ export const testimonials = [
   {
     quote:
       "Working with Furqan was a refreshing experience. Their eagerness to learn, combined with a strong work ethic and a knack for problem-solving, made them a valuable asset to our team. Furqan's creativity in Next.js truly impressed us.  If you're looking for a talented developer who brings fresh ideas and a dedication to excellence, Furqan is a perfect fit.",
-    name: "John Doe",
-    title: "Director of XYZ Technologies",
+    name: "Fakhar Javed",
+    title: "Co founder of Infusible Coder Pvt Ltd",
   },
   {
     quote:
       "Working with Furqan was a refreshing experience. Their eagerness to learn, combined with a strong work ethic and a knack for problem-solving, made them a valuable asset to our team. Furqan's creativity in Next.js truly impressed us.  If you're looking for a talented developer who brings fresh ideas and a dedication to excellence, Furqan is a perfect fit.",
-    name: "John Doe",
-    title: "Director of XYZ Technologies",
+      name: "Fakhar Javed",
+      title: "Co founder of Infusible Coder Pvt Ltd",
   },
   {
     quote:
       "Working with Furqan was a refreshing experience. Their eagerness to learn, combined with a strong work ethic and a knack for problem-solving, made them a valuable asset to our team. Furqan's creativity in Next.js truly impressed us.  If you're looking for a talented developer who brings fresh ideas and a dedication to excellence, Furqan is a perfect fit.",
-    name: "John Doe",
-    title: "Director of XYZ Technologies",
+      name: "Fakhar Javed",
+      title: "Co founder of Infusible Coder Pvt Ltd",
   },
   {
     quote:
       "Working with Furqan was a refreshing experience. Their eagerness to learn, combined with a strong work ethic and a knack for problem-solving, made them a valuable asset to our team. Furqan's creativity in Next.js truly impressed us.  If you're looking for a talented developer who brings fresh ideas and a dedication to excellence, Furqan is a perfect fit.",
-    name: "John Doe",
-    title: "Director of XYZ Technologies",
+      name: "Fakhar Javed",
+      title: "Co founder of Infusible Coder Pvt Ltd",
   },
   {
     quote:
       "Working with Furqan was a refreshing experience. Their eagerness to learn, combined with a strong work ethic and a knack for problem-solving, made them a valuable asset to our team. Furqan's creativity in Next.js truly impressed us.  If you're looking for a talented developer who brings fresh ideas and a dedication to excellence, Furqan is a perfect fit.",
-    name: "John Doe",
-    title: "Director of XYZ Technologies",
+      name: "Fakhar Javed",
+      title: "Co founder of Infusible Coder Pvt Ltd",
   },
 ];
 
