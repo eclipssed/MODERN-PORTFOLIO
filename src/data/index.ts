@@ -216,6 +216,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/muhammad-furqan-nextjs-developer/",
+    link: "https://www.linkedin.com/in/muhammadfurqan-js/",
   },
 ];
